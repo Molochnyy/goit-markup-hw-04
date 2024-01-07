@@ -94,7 +94,7 @@ img {
     padding-top: 24px;
     padding-bottom: 24px;
     display: block;
-    transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     position: relative;
 }
 
@@ -328,7 +328,6 @@ img {
 
 .ourteam-underimg-grup {
     padding: 32px 0;
-    padding-bottom: 0;
 }
 
 .ourteam-underimg-title {
@@ -349,8 +348,6 @@ img {
     font-weight: 400;
     text-align: center;
 }
-
-.ourtaem-icons {}
 
 .ourteam-icons-list {
     display: flex;
