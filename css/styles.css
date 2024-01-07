@@ -560,4 +560,6 @@ img {
     background-color: #31D0AA;
 }
 
-.footer-socials-icon {}
+.footer-socials-icon {
+    color: white;
+}
