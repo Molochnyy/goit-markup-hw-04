@@ -327,7 +327,10 @@ img {
 .ourteam-img {}
 
 .ourteam-underimg-grup {
+    display: block;
     padding: 32px 0;
+    justify-content: center;
+    align-items: center;
 }
 
 .ourteam-underimg-title {
@@ -355,7 +358,6 @@ img {
     justify-content: center;
     align-items: center;
     margin-top: 8px;
-    margin-bottom: 32px;
 }
 
 .ourteam-icons-item {
